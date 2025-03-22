@@ -23,7 +23,7 @@ type Position struct {
 	Lat, Long float64
 }
 
-func main() {
+func mainmaps() {
 	m := make(map[string]Position)
 	m["Bell Labs"] = Position{40.654546, -74.312423}
 

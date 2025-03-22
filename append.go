@@ -5,7 +5,7 @@ import (
 )
 
 
-func main-append() {
+func mainappend() {
 	var s []int
 	printSlice(s)
 
