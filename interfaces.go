@@ -10,7 +10,7 @@ type Abser interface {
 	Abs() float64
 }
 
-func main() {
+func maininterface() {
 	var a Abser
 	f := MyFloat(-math.Sqrt2)
 
